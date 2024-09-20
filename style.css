@@ -1,0 +1,29 @@
+html, body {
+  height: 80%;
+  width: 80%;
+}
+body{
+  background-color: #ffffff;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 250px;
+  margin-right: 100px;
+}
+h1{
+  background-color:#ffffff;
+  color:black
+}
+h2{
+  background-color:#ffffff;
+  color:black
+}
+h3{
+  background-color:#ffffff;
+  color:black
+}
+img{
+  border: 1px solid black;
+}
+table, th, td {
+  border: 1px solid black;
+}
