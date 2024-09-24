@@ -14,8 +14,27 @@
   <a href="/Resume.html"><button>Resume</button></a>
   <a href="/Contact.html"><button>Contact Me!</button></a>
   </center>
+<br>
 	<h1> <center>Homepage</center> </h1>
-  <p><center>On my webpage, you will find a way to contact me, a page about me, and my resume.</center></p>
+<br>
+<body><center>
+    <a href="/index.html"><button>About Me</button></a>  
+    <a href="/Resume.html"><button>Resume</button></a>
+    <a href="/Home.html"><button>Homepage</button></a>
+  </center>
+  <br>
+	<h1> <center>Contact us using the form below!</center> </h1>
+  <form>
+    <label for="name">What is your name?</label><br>
+    <input type="text" id="name" name="name">
+    <label for="email">Whhat is your email?</label><br>
+    <input type="text" id="email" name="email">
+    <label for="subject">Why are you contacting me today?</label><br>
+    <input type="text" id="subject" name="subject>
+    <label for="Know">What is the message you wish to get to me?</label><br>
+    <input type="text" id="Know" name="Know">
+    <input type="submit">
+  </form>
 </body>
 
 </html>
