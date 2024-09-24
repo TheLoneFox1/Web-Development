@@ -4,8 +4,8 @@
 <head>
   <link href="style.css" rel="stylesheet" type="text/css">
   <title>Contact Us!</title>
-  <meta charset="UTF-8" />
-  <meta name="description" content="Contact Us"/>
+  <meta charset="utf-8" />
+  <meta name="description" content="Web Development - Contact Us"/>
   <meta name="author" content="James Wayland" />
 </head>
 
