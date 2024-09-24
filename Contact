@@ -1,1 +1,36 @@
+<!DOCTYPE html>
 
+<html lang="en">
+<head>
+  <link href="style.css" rel="stylesheet" type="text/css">
+  <title>Contact Us!</title>
+  <meta charset="UTF-8" />
+  <meta name="description" content="Contact Us"/>
+  <meta name="author" content="James Wayland" />
+</head>
+
+<body><center>
+    <a href="/index.html"><button>Homepage</button></a>
+    <a href="/Admissions.html"><button>Admissions</button></a>
+    <a href="/Motto.html"><button>Motto</button></a>
+    <a href="/BuildingLayout.html"><button>Building Layout</button></a>  
+    <a href="/Subjects.html"><button>Subjects offered</button></a>
+    <a href="/Suggestions&Complaints.html"><button>Suggestions and Complaints</button></a>
+    <a href="/Image_Carosel.html"><button>Image Carosel</button></a>
+  </center>
+  <br>
+	<h1> <center>Contact us using the form below!</center> </h1>
+  <form>
+    <label for="name">What is your name?</label><br>
+    <input type="text" id="name" name="name">
+    <label for="email">Whhat is your email?</label><br>
+    <input type="text" id="email" name="email">
+    <label for="subject">Why are you contacting me today?</label><br>
+    <input type="text" id="subject" name="subject>
+    <label for="Know">What is the message you wish to get to me?</label><br>
+    <input type="text" id="Know" name="Need To Know">
+    <input type="submit">
+  </form>
+</body>
+
+</html>
