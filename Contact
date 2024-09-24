@@ -10,8 +10,9 @@
 </head>
 
 <body><center>
-    <a href="/index.html"><button>Homepage</button></a>
-    
+    <a href="/index.html"><button>About Me</button></a>  
+    <a href="/Resume.html"><button>Resume</button></a>
+    <a href="/Home.html"><button>Homepage</button></a>
   </center>
   <br>
 	<h1> <center>Contact us using the form below!</center> </h1>
