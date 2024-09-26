@@ -3,7 +3,7 @@ html, body {
   width: 80%;
 }
 body{
-  background-color: #ffffff;
+  background-color: #000000;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-left: 250px;
@@ -11,12 +11,12 @@ body{
 }
 
 h1{
-  background-color:#ffffff;
-  color: #000000;
+  background-color:#000000;
+  color: #ffd700;
 }
 
 img{
-  border: 1px solid #000000;
+  border: 1px solid #ffd700;
 }
 
 ul.nav1{
@@ -24,7 +24,7 @@ ul.nav1{
   margin:0;
   padding: 0;
   overflow: hidden;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 
 li.nav2{
@@ -33,20 +33,20 @@ li.nav2{
 
 li.nav2 a{
   display: grid;
-  color: #0000ff;
+  color: #ffd700;
   text-align: center;
   padding: 24px 26px;
   text-decoration: f;
 }
 
 li.nav2 a:hover{
-  background-color: #fbc2ff;
-  color: #000000; 
+  background-color: #000000;
+  color: #ffd700; 
 }
 
 button{
-  background-color: #ffd700;
-  color: #000000;
+  background-color: #000000;
+  color: #ffd700;
 }
 
 input[type=text], select, textarea {
@@ -78,5 +78,29 @@ form {
 }
 
 table, th, td {
-  border: 1px solid #000000;
+  border: 1px solid #ffd700;
+}
+
+.topnav {
+  background-color: #000000;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #ffd700;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #8000ff;
+  color: gold;
+}
+
+.topnav a.active {
+  background-color: #ffd700;
+  color: #000000;
 }
