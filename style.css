@@ -105,3 +105,13 @@ table, th, td {
   background-color: #ffd700;
   color: #000000;
 }
+
+label {
+  background-color: gold;
+  color: black;
+}
+
+input {
+  background-color: gold;
+  color: blue;
+}
